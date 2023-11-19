@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c592607c-74bd-4df0-914b-0bf1ae72e4e2" name="更改" comment="231116">
-      <change afterPath="$PROJECT_DIR$/csp/202303_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csp/202303_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/T221.py" afterDir="false" />
+    <list default="true" id="c592607c-74bd-4df0-914b-0bf1ae72e4e2" name="更改" comment="231119">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csp/202303_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/csp/202303_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +222,7 @@
       <workItem from="1699971318978" duration="312000" />
       <workItem from="1700041271127" duration="12716000" />
       <workItem from="1700140894898" duration="8518000" />
-      <workItem from="1700233304455" duration="19879000" />
+      <workItem from="1700233304455" duration="20832000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <option name="closed" value="true" />
@@ -307,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700149904806</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="231119">
+      <option name="closed" value="true" />
+      <created>1700398716540</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700398716540</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +338,8 @@
     <MESSAGE value="231113" />
     <MESSAGE value="231114" />
     <MESSAGE value="231116" />
-    <option name="LAST_COMMIT_MESSAGE" value="231116" />
+    <MESSAGE value="231119" />
+    <option name="LAST_COMMIT_MESSAGE" value="231119" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$T134.coverage" NAME="T134 覆盖结果" MODIFIED="1697091026319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
@@ -348,7 +354,7 @@
     <SUITE FILE_PATH="coverage/Python$T2558.coverage" NAME="T2558 覆盖结果" MODIFIED="1698557552844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Python$T120.coverage" NAME="T120 覆盖结果" MODIFIED="1699884696044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Python$202305_2.coverage" NAME="202305_2 覆盖结果" MODIFIED="1698047214553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csp" />
-    <SUITE FILE_PATH="coverage/Python$202303_2.coverage" NAME="202303_2 覆盖结果" MODIFIED="1700398212809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csp" />
+    <SUITE FILE_PATH="coverage/Python$202303_2.coverage" NAME="202303_2 覆盖结果" MODIFIED="1700399641995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csp" />
     <SUITE FILE_PATH="coverage/Python$T221.coverage" NAME="T221 覆盖结果" MODIFIED="1700397818915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Python$202309_1.coverage" NAME="202309_1 覆盖结果" MODIFIED="1696767547832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csp" />
     <SUITE FILE_PATH="coverage/Python$T135.coverage" NAME="T135 覆盖结果" MODIFIED="1697094163167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
