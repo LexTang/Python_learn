@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c592607c-74bd-4df0-914b-0bf1ae72e4e2" name="更改" comment="231122">
-      <change afterPath="$PROJECT_DIR$/leetcode/T39.py" afterDir="false" />
+    <list default="true" id="c592607c-74bd-4df0-914b-0bf1ae72e4e2" name="更改" comment="231123">
+      <change afterPath="$PROJECT_DIR$/leetcode/T1512.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/T1748.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/T1832.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/T2206.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/T33.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/T8.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/T8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +66,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.T39">
+  <component name="RunManager" selected="Python.T33">
     <configuration name="202303_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="T221" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="T33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +102,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/T221.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/T33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.T33" />
         <item itemvalue="Python.T39" />
         <item itemvalue="Python.T8" />
         <item itemvalue="Python.T5" />
         <item itemvalue="Python.202303_2" />
-        <item itemvalue="Python.T221" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +229,8 @@
       <workItem from="1700233304455" duration="28504000" />
       <workItem from="1700552020830" duration="2549000" />
       <workItem from="1700647070905" duration="3752000" />
-      <workItem from="1700725173604" duration="4009000" />
+      <workItem from="1700725173604" duration="4032000" />
+      <workItem from="1700756020555" duration="7590000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <option name="closed" value="true" />
@@ -340,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700650865460</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="231123">
+      <option name="closed" value="true" />
+      <created>1700747427138</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1700747427138</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +381,8 @@
     <MESSAGE value="231119" />
     <MESSAGE value="231120" />
     <MESSAGE value="231122" />
-    <option name="LAST_COMMIT_MESSAGE" value="231122" />
+    <MESSAGE value="231123" />
+    <option name="LAST_COMMIT_MESSAGE" value="231123" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$T134.coverage" NAME="T134 覆盖结果" MODIFIED="1697091026319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
@@ -386,6 +399,7 @@
     <SUITE FILE_PATH="coverage/Python$202305_1.coverage" NAME="202305_1 覆盖结果" MODIFIED="1697703042774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csp" />
     <SUITE FILE_PATH="coverage/Python$T62.coverage" NAME="T62 覆盖结果" MODIFIED="1697694816718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Python$T97.coverage" NAME="T97 覆盖结果" MODIFIED="1700068222091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/Python$T33.coverage" NAME="T33 覆盖结果" MODIFIED="1700758865282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Python$T2558.coverage" NAME="T2558 覆盖结果" MODIFIED="1698557552844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Python$202305_2.coverage" NAME="202305_2 覆盖结果" MODIFIED="1698047214553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csp" />
     <SUITE FILE_PATH="coverage/Python$202303_2.coverage" NAME="202303_2 覆盖结果" MODIFIED="1700400323837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csp" />
