@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c592607c-74bd-4df0-914b-0bf1ae72e4e2" name="更改" comment="231123">
-      <change afterPath="$PROJECT_DIR$/leetcode/T1512.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/T1748.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/T1832.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/T2206.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/T33.py" afterDir="false" />
+    <list default="true" id="c592607c-74bd-4df0-914b-0bf1ae72e4e2" name="更改" comment="231126">
+      <change afterPath="$PROJECT_DIR$/leetcode/T2006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/T2946.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +227,8 @@
       <workItem from="1700552020830" duration="2549000" />
       <workItem from="1700647070905" duration="3752000" />
       <workItem from="1700725173604" duration="4032000" />
-      <workItem from="1700756020555" duration="7590000" />
+      <workItem from="1700756020555" duration="7703000" />
+      <workItem from="1701073298420" duration="2881000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <option name="closed" value="true" />
@@ -352,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700747427138</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="231126">
+      <option name="closed" value="true" />
+      <created>1701007597731</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1701007597731</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +388,8 @@
     <MESSAGE value="231120" />
     <MESSAGE value="231122" />
     <MESSAGE value="231123" />
-    <option name="LAST_COMMIT_MESSAGE" value="231123" />
+    <MESSAGE value="231126" />
+    <option name="LAST_COMMIT_MESSAGE" value="231126" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$T134.coverage" NAME="T134 覆盖结果" MODIFIED="1697091026319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
